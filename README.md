@@ -5,7 +5,7 @@
   * Content : html&Css&JavaScript 복합 기본샘플 코드
   * 참조 코드 : https://www.w3schools.com/js
   
-### SungJun_Park :
+### Python_Jun :
   * lang: Python
   * Content : Python 기본샘플 코드
   * 참조 코드 : https://wikidocs.net/4319
