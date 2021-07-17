@@ -5,10 +5,12 @@
   * 🔭I'm planning to challenge for top50 in Dacon AI Competition for the next project!
     
 # Repository Description
-  * LikeLion_web : (lang: HTML, CSS, JavaScript)
-  * Python_Jun :
+  * Junnewbe : Dacon project storage
+  * LikeLion_web : AI Class materials & practice files from KDT LIEKLION AI SCHOOL
+  * Python_Jun : Python Practice code 
+  * Today_learns : My side project storage 
 
-<-- 
+<!-- <-- 
 
 **Junnewbe/Junnewbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
